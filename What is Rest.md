@@ -1,4 +1,4 @@
-# What is Rest?
+ # What is Rest?
 
 [REST, 혹은 REpresentational State Transfer](https://ko.wikipedia.org/wiki/REST) 라는 것은 웹에서 컴퓨터간의 표준을 제공함으로써 시스템간의 소통을 원활하게 하는 아키텍쳐 스타일입니다. REST의 규칙들을 잘 지키는, 우리가 흔히 말하는 RESTful한 시스템들은 서버와 클라이언트의 역할을 확실하게 분리하며 REST의 특징을 따릅니다. 이제부터 이것들이 어떻게 웹에서 서비스를 운영하는데 도움이 되는지, 그리고 REST는 어떤 식으로 요청을 보내고 응답을 받는지 알아보도록 하겠습니다.
 
@@ -199,7 +199,7 @@ GET / members/soccer/345/photo HTTP/1.1 Host: restapi.example.com Accept: image/
 
 
 
-###Reference
+### Reference
 
 http://jaweb.tistory.com/entry/REST-RestFul이란-무엇인가
 
